@@ -1,0 +1,582 @@
+{
+  "entry": {
+    "box": [
+      2130,
+      325,
+      2360,
+      365
+    ],
+    "threshold": 24,
+    "source": "step-045.png"
+  },
+  "retry": {
+    "box": [
+      1580,
+      255,
+      1710,
+      335
+    ],
+    "threshold": 22,
+    "source": "step-043.png"
+  },
+  "agree": {
+    "box": [
+      1465,
+      975,
+      1645,
+      1035
+    ],
+    "threshold": 22,
+    "source": "step-044.png"
+  },
+  "chest": {
+    "box": [
+      1500,
+      1040,
+      1575,
+      1130
+    ],
+    "threshold": 22,
+    "source": "step-042.png"
+  },
+  "zero": {
+    "box": [
+      2000,
+      522,
+      2100,
+      565
+    ],
+    "threshold": 8,
+    "source": "step-045.png"
+  },
+  "roles": {
+    "box": [
+      140,
+      25,
+      382,
+      83
+    ],
+    "threshold": 18,
+    "source": "step-003.png"
+  },
+  "roleEnter": {
+    "box": [
+      1180,
+      1300,
+      1380,
+      1348
+    ],
+    "threshold": 18,
+    "source": "step-003.png"
+  },
+  "hud": {
+    "box": [
+      538,
+      157,
+      576,
+      179
+    ],
+    "threshold": 12,
+    "source": "step-011-close.png"
+  },
+  "recovery": {
+    "box": [
+      1135,
+      207,
+      1430,
+      258
+    ],
+    "threshold": 18,
+    "source": "step-006.png"
+  },
+  "recoveryConfirm": {
+    "box": [
+      1190,
+      1180,
+      1360,
+      1230
+    ],
+    "threshold": 18,
+    "source": "step-007.png"
+  },
+  "menu": {
+    "box": [
+      280,
+      1100,
+      360,
+      1220
+    ],
+    "threshold": 18,
+    "source": "step-012.png"
+  },
+  "menuSettings": {
+    "box": [
+      280,
+      1100,
+      360,
+      1220
+    ],
+    "threshold": 18,
+    "source": "step-012.png"
+  },
+  "dungeons": {
+    "box": [
+      222,
+      30,
+      351,
+      84
+    ],
+    "threshold": 18,
+    "source": "step-013.png"
+  },
+  "blackstoneCard": {
+    "box": [
+      355,
+      550,
+      850,
+      620
+    ],
+    "threshold": 18,
+    "source": "step-014.png"
+  },
+  "blackstoneGo": {
+    "box": [
+      1175,
+      901,
+      1290,
+      968
+    ],
+    "threshold": 18,
+    "source": "step-014.png"
+  },
+  "exchanges0": {
+    "box": [
+      1709,
+      928,
+      1795,
+      962
+    ],
+    "threshold": 8,
+    "source": "step-010.png"
+  },
+  "exchanges1": {
+    "box": [
+      1709,
+      928,
+      1795,
+      962
+    ],
+    "threshold": 8,
+    "source": "step-009.png"
+  },
+  "exchanges2": {
+    "box": [
+      1709,
+      928,
+      1795,
+      962
+    ],
+    "threshold": 8,
+    "source": "step-008.png"
+  },
+  "exchanges3": {
+    "box": [
+      1709,
+      928,
+      1795,
+      962
+    ],
+    "threshold": 8,
+    "source": "step-007.png"
+  },
+  "settingsReturn": {
+    "source": "return-settings.png",
+    "box": [
+      1770,
+      1293,
+      2010,
+      1348
+    ],
+    "threshold": 18
+  },
+  "returnConfirm": {
+    "source": "return-dialog.png",
+    "box": [
+      1050,
+      631,
+      1460,
+      678
+    ],
+    "threshold": 18
+  },
+  "returnTown": {
+    "box": [
+      830,
+      245,
+      980,
+      395
+    ],
+    "threshold": 25,
+    "source": "town-emblem-flow/../fatigue-empty-result.png"
+  },
+  "town": {
+    "box": [
+      2130,
+      332,
+      2245,
+      361
+    ],
+    "threshold": 26,
+    "source": "town-emblem-flow/town-start-full.png"
+  },
+  "craftMenu": {
+    "box": [
+      1760,
+      620,
+      1910,
+      750
+    ],
+    "threshold": 26,
+    "source": "town-emblem-flow/menu-full.png"
+  },
+  "crafting": {
+    "box": [
+      230,
+      25,
+      350,
+      83
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/crafting-full.png"
+  },
+  "emblemPage": {
+    "box": [
+      280,
+      317,
+      460,
+      360
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/emblem-synthesis-full.png"
+  },
+  "gradeB": {
+    "box": [
+      774,
+      180,
+      870,
+      280
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/grade-b-selected-full.png"
+  },
+  "synthesisResult": {
+    "box": [
+      1160,
+      470,
+      1390,
+      515
+    ],
+    "threshold": 20,
+    "source": "town-emblem-flow/synthesis-result-full.png"
+  },
+  "townMap": {
+    "box": [
+      65,
+      1310,
+      312,
+      1375
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-map-full.png"
+  },
+  "mapFunction": {
+    "box": [
+      2110,
+      185,
+      2250,
+      287
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-function-list-full.png"
+  },
+  "keeperGo": {
+    "box": [
+      797,
+      819,
+      918,
+      869
+    ],
+    "threshold": 20,
+    "source": "town-emblem-flow/warehouse-keeper-selected-full.png"
+  },
+  "warehouseDialog": {
+    "box": [
+      1420,
+      798,
+      1640,
+      854
+    ],
+    "threshold": 26,
+    "source": "town-emblem-flow/warehouse-arrival-dialog-full.png"
+  },
+  "warehouse": {
+    "box": [
+      190,
+      27,
+      300,
+      82
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-open-full.png"
+  },
+  "normalWarehouse": {
+    "box": [
+      20,
+      473,
+      192,
+      547
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/normal-warehouse-full.png"
+  },
+  "loginAccount": {
+    "box": [
+      1200,
+      455,
+      1360,
+      500
+    ],
+    "threshold": 15,
+    "source": "login-00-relogin-start.png"
+  },
+  "loginQuickFailed": {
+    "box": [
+      993,
+      594,
+      1520,
+      637
+    ],
+    "threshold": 20,
+    "source": "login-01-account-enter.png"
+  },
+  "loginSms": {
+    "box": [
+      1200,
+      432,
+      1360,
+      480
+    ],
+    "threshold": 15,
+    "source": "login-02-continue-relogin.png"
+  },
+  "loginPassword": {
+    "box": [
+      1200,
+      432,
+      1360,
+      480
+    ],
+    "threshold": 15,
+    "source": "login-03-password-method.png"
+  },
+  "loginPasswordReady": {
+    "box": [
+      1030,
+      745,
+      1530,
+      813
+    ],
+    "threshold": 22,
+    "source": "login-04-password-filled.png"
+  },
+  "loginAgreement": {
+    "box": [
+      991,
+      980,
+      1018,
+      1008
+    ],
+    "threshold": 16,
+    "source": "login-05-agreement-checked.png"
+  },
+  "loginRejected": {
+    "box": [
+      1100,
+      1316,
+      1490,
+      1374
+    ],
+    "threshold": 25,
+    "source": "login-06-password-enter.png"
+  },
+  "loginServer": {
+    "box": [
+      1220,
+      1085,
+      1340,
+      1136
+    ],
+    "threshold": 22,
+    "source": "../../daily-flow/step-002.png"
+  },
+  "loginNotice": {
+    "box": [
+      558,
+      303,
+      780,
+      374
+    ],
+    "threshold": 18,
+    "source": "login-notice-user-reference.png"
+  },
+  "townMapHeader": {
+    "box": [
+      1175,
+      75,
+      1390,
+      125
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-map-full.png"
+  },
+  "repairBag": {
+    "box": [
+      2340,
+      1300,
+      2465,
+      1370
+    ],
+    "threshold": 22,
+    "source": "equipment-repair/bag-before.png"
+  },
+  "repairWindow": {
+    "box": [
+      1210,
+      195,
+      1360,
+      261
+    ],
+    "threshold": 22,
+    "source": "equipment-repair/repair-before.png"
+  },
+  "repairConfirm": {
+    "box": [
+      960,
+      692,
+      1600,
+      752
+    ],
+    "threshold": 22,
+    "source": "equipment-repair/repair-confirm.png"
+  },
+  "repairEmpty": {
+    "box": [
+      537,
+      325,
+      659,
+      450
+    ],
+    "threshold": 8,
+    "source": "equipment-repair/repair-empty.png"
+  },
+  "repairEmptyRight": {
+    "box": [
+      1030,
+      325,
+      1155,
+      450
+    ],
+    "threshold": 8,
+    "source": "equipment-repair/repair-empty.png"
+  },
+  "townHud": {
+    "box": [
+      2497,
+      330,
+      2538,
+      362
+    ],
+    "threshold": 35,
+    "source": "town-travel/other-town.png"
+  },
+  "worldMap": {
+    "box": [
+      268,
+      1245,
+      442,
+      1320
+    ],
+    "threshold": 20,
+    "source": "town-travel/world-map.png"
+  },
+  "magicTravelConfirm": {
+    "box": [
+      1060,
+      624,
+      1487,
+      676
+    ],
+    "threshold": 20,
+    "source": "town-travel/travel-confirm.png"
+  },
+  "magicTownMapTitle": {
+    "box": [
+      1180,
+      80,
+      1383,
+      132
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-map-full.png"
+  },
+  "magicTownMapCentre": {
+    "box": [
+      771,
+      578,
+      955,
+      722
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-map-full.png"
+  },
+  "magicTownMapTree": {
+    "box": [
+      382,
+      443,
+      493,
+      572
+    ],
+    "threshold": 18,
+    "source": "town-emblem-flow/warehouse-map-full.png"
+  },
+  "synthesisInfoTitle": {
+    "box": [
+      1228,
+      347,
+      1345,
+      404
+    ],
+    "threshold": 24,
+    "source": "equipment-repair/repair-confirm.png"
+  },
+  "synthesisInfoClose": {
+    "box": [
+      1818,
+      345,
+      1862,
+      397
+    ],
+    "threshold": 24,
+    "source": "equipment-repair/repair-confirm.png"
+  },
+  "battleCleared": {
+    "box": [
+      916,
+      294,
+      1625,
+      344
+    ],
+    "threshold": 22,
+    "source": "battle-clear/sage-success-message.png"
+  }
+}
